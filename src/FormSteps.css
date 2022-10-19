@@ -1,0 +1,185 @@
+*{
+  font-family: "Inter";
+}
+
+img{
+  margin-left: 625px;
+  margin-top: 10px;
+  margin-bottom: 0px;
+  filter: invert(33%) sepia(84%) saturate(1094%) hue-rotate(222deg) brightness(84%) contrast(96%);
+}
+
+.heading{
+  display: flex;
+}
+
+.heading h2{
+  font-weight: bolder;
+}
+.stepperr {
+  width: 30%;
+  margin-left: 37%;
+  margin-top: 3%;
+}
+
+.mainDiv{
+  width: 70%;
+  margin-top: 10%;
+  margin-left: 15%;
+}
+
+.mainDiv button{
+  margin-left: 37%;
+  margin-top: 15px;
+  width: 30%;
+  border-radius: 5px;
+  height: 45px;
+  background-color: #5a4ad1;
+  color: white;
+}
+
+.stepOne h2{
+  margin-left: 37%;
+  letter-spacing: 1px;
+  font-weight: 700;
+} 
+
+.stepOne h5 {
+  margin-top: 10px;
+  margin-left: 37%;
+}
+
+.stepOne p {
+  margin-left: 42%;
+  font-size: 20px;
+  color: rgb(124, 124, 124);
+  margin-bottom: 20px;
+}
+
+.stepOne input {
+  margin-left: 37%;
+  margin-top: 5px;
+  border-radius: 5px;
+  padding: 10px;
+  border-color: rgb(236, 231, 231);
+  height: 35px;
+  width: 30%;
+  border-style: groove;
+}
+
+.stepTwo h2{
+  margin-left: 34%;
+  font-weight: 700;
+}
+
+.stepTwo p {
+  margin-left: 38%;
+  font-size: 20px;
+  color: rgb(124, 124, 124);
+  margin-bottom: 20px;
+}
+
+.stepTwo h5 {
+  margin-top: 10px;
+  margin-left: 37%;
+}
+
+.workName {
+  margin-left: 37%;
+  margin-top: 5px;
+  border-radius: 5px;
+  padding: 10px;
+  border-color: rgb(236, 231, 231);
+  height: 35px;
+  width: 30%;
+  border-style: groove;
+}
+
+.optional{
+  color:rgb(188, 188, 188) ;
+}
+
+.customInput {
+  margin-left: 37%;
+  width: 12%;
+  margin-right: 0px;
+}
+
+.urlAddress{
+  margin-left: 0px;
+  border-radius: 5px;
+  padding: 10px;
+  border-color: rgb(236, 231, 231);
+  height: 38px;
+  width: 18%;
+  border-style: groove;
+  border-left-style: none;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.stepFour h2{
+  margin-left: 40%;
+  letter-spacing: 1px;
+  font-weight: 700;
+} 
+
+.stepFour p {
+  margin-left: 35%;
+  font-size: 18px;
+  color: rgb(124, 124, 124);
+  margin-bottom: 20px;
+}
+
+.icon {
+  margin-left: 51%;
+  margin-top: 50px;
+  color: #5a4ad1;
+  
+}
+
+.stepThree h2{
+  margin-left: 32%;
+  letter-spacing: 1px;
+  font-weight: 700;
+} 
+
+.stepThree h5{
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.stepThree p {
+  margin-left: 38%;
+  font-size: 18px;
+  color: rgb(124, 124, 124);
+  margin-bottom: 20px;
+}
+
+.stepThree h6 {
+  color: rgb(124, 124, 124);
+}
+.cardFormat{
+  width: 158px;
+  height: 170px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.cardLength{
+  margin-left: 37%;
+}
+
+.person{
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+.selectedCard{
+  margin: 10px;
+}
+
+.card:focus{
+    border: 1px solid #5a4ad1;
+    border-radius: 5px;
+}
